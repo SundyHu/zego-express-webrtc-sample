@@ -55,7 +55,7 @@ var publishStreamId = 'webrtc' + new Date().getTime();
 exports.publishStreamId = publishStreamId;
 var zg;
 exports.zg = zg;
-var appID = 1739272706;
+var appID = 873296761;
 var server = 'wss://webliveroom-test.zego.im/ws'; //'wss://wsliveroom' + appID + '-api.zego.im:8282/ws'
 var cgiToken = '';
 //const appSign = '';
